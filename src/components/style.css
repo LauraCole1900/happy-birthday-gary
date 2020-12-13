@@ -1,0 +1,48 @@
+.container {
+  position: relative;
+  transform: translateY(30%);
+  font-family: 'Mountains of Christmas', cursive;
+}
+
+.happy{
+  margin-bottom: 100px;
+}
+
+.birthday {
+  margin-bottom: 100px;
+}
+
+.red {
+  color: red;
+  font-size: 60px;
+}
+
+.orange {
+  color: orange;
+  font-size: 60px;
+}
+
+.yellow {
+  color: yellow;
+  font-size: 60px;
+}
+
+.green {
+  color: green;
+  font-size: 60px;
+}
+
+.blue {
+  color: blue;
+  font-size: 60px;
+}
+
+.purple {
+  color: blueviolet;
+  font-size: 60px;
+}
+
+.yellowgreen {
+  color: yellowgreen;
+  font-size: 60px;
+}
