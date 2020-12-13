@@ -3,8 +3,7 @@
   ## Table of Contents
 
   * [Description](#description)
-  * [Links](#links)
-  * [Screenshots](#screenshots)
+  * [Screenshot](#screenshot)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Technologies Used](#technologies)
