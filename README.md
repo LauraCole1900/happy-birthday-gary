@@ -4,14 +4,14 @@
 
   * [Description](#description)
   * [Screenshot](#screenshot)
-  * [Installation](#installation)
+  * [Installation Instructions](#installation-instructions)
   * [Usage](#usage)
-  * [Technologies Used](#technologies)
+  * [Technologies Used](#technologies-used)
   * [Tests](#tests)
   * [Credits](#credits)
   * [Contributing](#contributing)
   * [Questions](#questions)
-  * [License](#license)
+  * [Badges](#badges)
 
   ## Description
 
@@ -50,6 +50,6 @@
 
   If you have further questions, you can reach me at lauracole1900@comcast.net. For more of my work, see [my GitHub](https://github.com/LauraCole1900).
 
-  ## License
+  ## Badges
 
-  ![License badge](https://img.shields.io/badge/license-MIT-brightgreen).
+  ![License badge](https://img.shields.io/badge/license-MIT-brightgreen) [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/LauraCole1900/happy-birthday-gary)
