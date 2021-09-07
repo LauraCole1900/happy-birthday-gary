@@ -1,3 +1,16 @@
+:root {
+  --myFont: 'Mountains of Christmas', cursive;
+  --black: #000000;
+  --red: #ff0000;
+  --orange: #ffa500;
+  --ltYellow: #ffffcc;
+  --yellow: #ffff00;
+  --yellowGreen: #9acd32;
+  --green: #008000;
+  --blue: #0000ff;
+  --purple: #8a2be2;
+}
+
 body {
-  background-color: black;
+  background-color: var(--black);
 }

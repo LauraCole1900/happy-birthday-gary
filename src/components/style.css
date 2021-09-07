@@ -1,7 +1,19 @@
+:root {
+  --myFont: 'Mountains of Christmas', cursive;
+  --red: #ff0000;
+  --orange: #ffa500;
+  --ltYellow: #ffffcc;
+  --yellow: #ffff00;
+  --yellowGreen: #9acd32;
+  --green: #008000;
+  --blue: #0000ff;
+  --purple: #8a2be2;
+}
+
 .container {
   position: relative;
   transform: translateY(30%);
-  font-family: 'Mountains of Christmas', cursive;
+  font-family: var(--myFont);
 }
 
 .happy{
@@ -13,36 +25,36 @@
 }
 
 .red {
-  color: red;
+  color: var(--red);
   font-size: 60px;
 }
 
 .orange {
-  color: orange;
+  color: var(--orange);
   font-size: 60px;
 }
 
 .yellow {
-  color: yellow;
-  font-size: 60px;
-}
-
-.green {
-  color: green;
-  font-size: 60px;
-}
-
-.blue {
-  color: blue;
-  font-size: 60px;
-}
-
-.purple {
-  color: blueviolet;
+  color: var(--yellow);
   font-size: 60px;
 }
 
 .yellowgreen {
-  color: yellowgreen;
+  color: var(--yellowgreen);
+  font-size: 60px;
+}
+
+.green {
+  color: var(--green);
+  font-size: 60px;
+}
+
+.blue {
+  color: var(--blue);
+  font-size: 60px;
+}
+
+.purple {
+  color: var(--purple);
   font-size: 60px;
 }
