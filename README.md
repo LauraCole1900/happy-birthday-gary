@@ -52,4 +52,4 @@
 
   ## Badges
 
-  ![License badge](https://img.shields.io/badge/license-MIT-brightgreen) [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/LauraCole1900/happy-birthday-gary)
+  ![License badge](https://img.shields.io/badge/license-MIT-000000) [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/LauraCole1900/happy-birthday-gary)
