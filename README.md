@@ -32,7 +32,7 @@
 
   ## Technologies Used
 
-  Node.js, React, react-reveal, React-Bootstrap, react-confetti
+  [![Node.js](https://img.shields.io/badge/built%20with-Node.js-3c873a)](https://nodejs.org/en/) [![React](https://img.shields.io/badge/built%20with-React-61dbfb)](https://reactjs.org/) [![React-Bootstrap](https://img.shields.io/badge/built%20with-React%20Bootstrap-61dbfb)](https://react-bootstrap.github.io/) [![React-confetti](https://img.shields.io/badge/built%20with-React%20Confetti-cc3534)](https://www.npmjs.com/package/react-confetti) [![React-reveal](https://img.shields.io/badge/built%20with-React%20Reveal-0275d8)](https://www.react-reveal.com/)
 
   ## Tests
 
@@ -52,4 +52,4 @@
 
   ## Badges
 
-  ![License badge](https://img.shields.io/badge/license-MIT-000000) [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/LauraCole1900/happy-birthday-gary)
+  [![License badge](https://img.shields.io/badge/license-MIT-000000)](./LICENSE) [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/LauraCole1900/happy-birthday-gary)
